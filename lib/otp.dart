@@ -22,7 +22,7 @@ final defaultPinTheme = PinTheme(
 );
 
 final focusedPinTheme = defaultPinTheme.copyDecorationWith(
-  border: Border.all(color: Color.fromRGBO(114, 178, 238, 1)),
+  border: Border.all(color: Color.fromRGBO(95, 165, 231, 1)),
   borderRadius: BorderRadius.circular(8),
 );
 
